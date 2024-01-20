@@ -1,4 +1,4 @@
-//next function is called middleware
+//next function is called mid
 
 const JWT = require('jsonwebtoken');
 
